@@ -174,3 +174,11 @@ System memory in use after: 113.5 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
 Total: 4.385881 ms (FindLiveObjects: 0.339980 ms CreateObjectMapping: 0.090055 ms MarkObjects: 3.820660 ms  DeleteObjects: 0.132952 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 236.155126 seconds.
+  path: Assets/Scripts/IF Statements
+  artifactKey: Guid(b5ee0fe53d99b4660a234c4a4858b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF Statements using Guid(b5ee0fe53d99b4660a234c4a4858b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778c4954d4031d969e02b41d2937f9ba') in 0.015829 seconds
+  Import took 0.024048 seconds .
+
