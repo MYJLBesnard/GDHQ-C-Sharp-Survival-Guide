@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TestVariable : MonoBehaviour
+public class ChallengeWeaponSelectProgram : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()

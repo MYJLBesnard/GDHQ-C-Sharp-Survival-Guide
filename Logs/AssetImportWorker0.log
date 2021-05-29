@@ -202,3 +202,647 @@ System memory in use after: 113.7 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1565.
 Total: 4.310020 ms (FindLiveObjects: 0.484877 ms CreateObjectMapping: 0.093769 ms MarkObjects: 3.585780 ms  DeleteObjects: 0.142975 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001148 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.884 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.8 MB.
+System memory in use after: 113.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 3.840165 ms (FindLiveObjects: 0.421164 ms CreateObjectMapping: 0.120250 ms MarkObjects: 3.167837 ms  DeleteObjects: 0.128571 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 629.424697 seconds.
+  path: Assets/Scripts/Variables/NewBehaviourScript.cs
+  artifactKey: Guid(87dc53f8fef794a77b9203d60c6f1164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/NewBehaviourScript.cs using Guid(87dc53f8fef794a77b9203d60c6f1164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad47b076ce5ab8e6c06047a145f38192') in 0.027399 seconds
+  Import took 0.031894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.041751 seconds.
+  path: Assets/Scripts/Variables/ChallengeMasterVariablesPart01.cs
+  artifactKey: Guid(33cb3587525d94e11bf24b274b610185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeMasterVariablesPart01.cs using Guid(33cb3587525d94e11bf24b274b610185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1184954aef2267aac9c4f815e9ef6fb') in 0.012984 seconds
+  Import took 0.017331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057527 seconds.
+  path: Assets/Scripts/Variables/ChallengeMasterVariablesPart01.cs
+  artifactKey: Guid(33cb3587525d94e11bf24b274b610185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeMasterVariablesPart01.cs using Guid(33cb3587525d94e11bf24b274b610185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1184954aef2267aac9c4f815e9ef6fb') in 0.023320 seconds
+  Import took 0.028156 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001069 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.455 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.0 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 3.382304 ms (FindLiveObjects: 0.303977 ms CreateObjectMapping: 0.075662 ms MarkObjects: 2.896892 ms  DeleteObjects: 0.103394 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000809 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.509 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.2 MB.
+System memory in use after: 114.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 4.147656 ms (FindLiveObjects: 0.303121 ms CreateObjectMapping: 0.075270 ms MarkObjects: 3.659596 ms  DeleteObjects: 0.107198 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.353297 seconds.
+  path: Assets/Scripts/Variables/NewBehaviourScript1.cs
+  artifactKey: Guid(e1dd2ef6261ef4f79991e8b2b664eeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/NewBehaviourScript1.cs using Guid(e1dd2ef6261ef4f79991e8b2b664eeb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf541d3d8e66cbe5e853c6f22f27eb8') in 0.013614 seconds
+  Import took 0.017612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.725005 seconds.
+  path: Assets/Scripts/Variables/ChallengeMasterVariablesPart02.cs
+  artifactKey: Guid(7086c74e7b2254ee3849ac87cd429163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeMasterVariablesPart02.cs using Guid(7086c74e7b2254ee3849ac87cd429163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c547c25e13efa7218bc882fb16e455') in 0.014350 seconds
+  Import took 0.018760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.179651 seconds.
+  path: Assets/Scripts/Variables/ChallengeMasterVariablesPart02.cs
+  artifactKey: Guid(7086c74e7b2254ee3849ac87cd429163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeMasterVariablesPart02.cs using Guid(7086c74e7b2254ee3849ac87cd429163) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c547c25e13efa7218bc882fb16e455') in 0.033433 seconds
+  Import took 0.040028 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.427 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.4 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1581.
+Total: 5.544002 ms (FindLiveObjects: 0.784058 ms CreateObjectMapping: 0.109869 ms MarkObjects: 4.525079 ms  DeleteObjects: 0.121889 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000840 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.623 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.5 MB.
+System memory in use after: 114.6 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1583.
+Total: 3.450330 ms (FindLiveObjects: 0.335735 ms CreateObjectMapping: 0.096315 ms MarkObjects: 2.904464 ms  DeleteObjects: 0.111300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000792 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.534 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.6 MB.
+System memory in use after: 114.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 3.544190 ms (FindLiveObjects: 0.305954 ms CreateObjectMapping: 0.075157 ms MarkObjects: 3.056800 ms  DeleteObjects: 0.103714 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.310072 seconds.
+  path: Assets/Scripts/Variables/ChallengeTipCalculator.cs
+  artifactKey: Guid(e1c551a6c648e4dc1acf91edddc13030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeTipCalculator.cs using Guid(e1c551a6c648e4dc1acf91edddc13030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a06add1dd6e427b31bde98736d7539') in 0.013883 seconds
+  Import took 0.018105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102189 seconds.
+  path: Assets/Scripts/Variables/ChallengeTipCalculator.cs
+  artifactKey: Guid(e1c551a6c648e4dc1acf91edddc13030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeTipCalculator.cs using Guid(e1c551a6c648e4dc1acf91edddc13030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a06add1dd6e427b31bde98736d7539') in 0.014882 seconds
+  Import took 0.018770 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.421 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.8 MB.
+System memory in use after: 114.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1588.
+Total: 3.644004 ms (FindLiveObjects: 0.305095 ms CreateObjectMapping: 0.074874 ms MarkObjects: 3.156943 ms  DeleteObjects: 0.104659 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.738729 seconds.
+  path: Assets/Scripts/Variables/ChallengeQuizGradeAverage.cs
+  artifactKey: Guid(b3c1c6af750124e8ab1a0382f38e0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeQuizGradeAverage.cs using Guid(b3c1c6af750124e8ab1a0382f38e0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8861cd21e506e69660e08253a6eea1') in 0.021823 seconds
+  Import took 0.025746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130786 seconds.
+  path: Assets/Scripts/Variables/ChallengeQuizGradeAverage.cs
+  artifactKey: Guid(b3c1c6af750124e8ab1a0382f38e0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/ChallengeQuizGradeAverage.cs using Guid(b3c1c6af750124e8ab1a0382f38e0a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8861cd21e506e69660e08253a6eea1') in 0.020392 seconds
+  Import took 0.024615 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.543 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.0 MB.
+System memory in use after: 115.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1592.
+Total: 3.725979 ms (FindLiveObjects: 0.309864 ms CreateObjectMapping: 0.075111 ms MarkObjects: 3.234089 ms  DeleteObjects: 0.104637 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.296266 seconds.
+  path: Assets/Scripts/IF-Then Logic
+  artifactKey: Guid(b5ee0fe53d99b4660a234c4a4858b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic using Guid(b5ee0fe53d99b4660a234c4a4858b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03c1d00568bc5371c393e40052f2378') in 0.009754 seconds
+  Import took 0.013775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077450 seconds.
+  path: Assets/Scripts/IF-Then Logic/TestIFStatement.cs
+  artifactKey: Guid(356d1c6694e634372b358e369f951cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/TestIFStatement.cs using Guid(356d1c6694e634372b358e369f951cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc02b1f53cb1cc651323e6b1d2552e5') in 0.013823 seconds
+  Import took 0.021598 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.409 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.2 MB.
+System memory in use after: 115.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1595.
+Total: 3.456463 ms (FindLiveObjects: 0.342078 ms CreateObjectMapping: 0.082589 ms MarkObjects: 2.921347 ms  DeleteObjects: 0.107722 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.457 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1116 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.4 MB.
+System memory in use after: 115.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 3.482710 ms (FindLiveObjects: 0.321334 ms CreateObjectMapping: 0.093057 ms MarkObjects: 2.957230 ms  DeleteObjects: 0.108935 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.017951 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP02.cs
+  artifactKey: Guid(e9c5cfb868a1a4ac8bf0441242d1dd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP02.cs using Guid(e9c5cfb868a1a4ac8bf0441242d1dd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0263ecc67b78e255db3c8f4a87137d4') in 0.017528 seconds
+  Import took 0.021940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016754 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP02.cs
+  artifactKey: Guid(e9c5cfb868a1a4ac8bf0441242d1dd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP02.cs using Guid(e9c5cfb868a1a4ac8bf0441242d1dd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0263ecc67b78e255db3c8f4a87137d4') in 0.014305 seconds
+  Import took 0.018058 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000855 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.5 MB.
+System memory in use after: 115.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1603.
+Total: 62.931797 ms (FindLiveObjects: 0.322366 ms CreateObjectMapping: 0.080965 ms MarkObjects: 62.347990 ms  DeleteObjects: 0.177401 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.627593 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP03.cs
+  artifactKey: Guid(f1fce2286ad5444189d48b4665c1ede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP03.cs using Guid(f1fce2286ad5444189d48b4665c1ede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9de6d818354d1607df10489f92c43e') in 0.021156 seconds
+  Import took 0.025505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092010 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP03.cs
+  artifactKey: Guid(f1fce2286ad5444189d48b4665c1ede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP03.cs using Guid(f1fce2286ad5444189d48b4665c1ede8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9de6d818354d1607df10489f92c43e') in 0.020565 seconds
+  Import took 0.024345 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001692 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.419 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.7 MB.
+System memory in use after: 115.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 3.629186 ms (FindLiveObjects: 0.308952 ms CreateObjectMapping: 0.110076 ms MarkObjects: 3.100078 ms  DeleteObjects: 0.107729 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.807343 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP04.cs
+  artifactKey: Guid(d5747e1ae85814b9db8b9ecb884acb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP04.cs using Guid(d5747e1ae85814b9db8b9ecb884acb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da105e637e35ded92ec794d9a4c42c6f') in 0.020941 seconds
+  Import took 0.026026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058807 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeP04.cs
+  artifactKey: Guid(d5747e1ae85814b9db8b9ecb884acb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeP04.cs using Guid(d5747e1ae85814b9db8b9ecb884acb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da105e637e35ded92ec794d9a4c42c6f') in 0.014635 seconds
+  Import took 0.019957 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.576 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.9 MB.
+System memory in use after: 116.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 4.551857 ms (FindLiveObjects: 0.384132 ms CreateObjectMapping: 0.103837 ms MarkObjects: 3.954158 ms  DeleteObjects: 0.107153 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.729707 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeQuizGrade.cs
+  artifactKey: Guid(cd282c3fa83594a8fb0822932f33811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeQuizGrade.cs using Guid(cd282c3fa83594a8fb0822932f33811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2e837b994d92a92908b42d227813f9') in 0.022135 seconds
+  Import took 0.026554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056062 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeQuizGrade.cs
+  artifactKey: Guid(cd282c3fa83594a8fb0822932f33811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeQuizGrade.cs using Guid(cd282c3fa83594a8fb0822932f33811b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2e837b994d92a92908b42d227813f9') in 0.017668 seconds
+  Import took 0.022262 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.540 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 3.503703 ms (FindLiveObjects: 0.381442 ms CreateObjectMapping: 0.078592 ms MarkObjects: 2.935661 ms  DeleteObjects: 0.105458 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.354343 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeSpeedProgram.cs
+  artifactKey: Guid(756ef50492f67499586ca126d0f4c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeSpeedProgram.cs using Guid(756ef50492f67499586ca126d0f4c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844a4623143fa85326b71321b1b6d5d1') in 0.018060 seconds
+  Import took 0.021877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089720 seconds.
+  path: Assets/Scripts/IF-Then Logic/ChallengeSpeedProgram.cs
+  artifactKey: Guid(756ef50492f67499586ca126d0f4c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/IF-Then Logic/ChallengeSpeedProgram.cs using Guid(756ef50492f67499586ca126d0f4c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844a4623143fa85326b71321b1b6d5d1') in 0.011223 seconds
+  Import took 0.014930 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.3 MB.
+System memory in use after: 116.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 3.561717 ms (FindLiveObjects: 0.323274 ms CreateObjectMapping: 0.085806 ms MarkObjects: 3.042791 ms  DeleteObjects: 0.107662 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.600 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.4 MB.
+System memory in use after: 116.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 3.518308 ms (FindLiveObjects: 0.311058 ms CreateObjectMapping: 0.075745 ms MarkObjects: 3.023542 ms  DeleteObjects: 0.105714 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.919371 seconds.
+  path: Assets/Scripts/Switch Statements
+  artifactKey: Guid(b0a55b04a54ed4e3cae3b4f11cbab63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements using Guid(b0a55b04a54ed4e3cae3b4f11cbab63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83dd1d88aae69bee879c545798928c8f') in 0.011688 seconds
+  Import took 0.020871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017996 seconds.
+  path: Assets/Scripts/Switch Statements
+  artifactKey: Guid(b0a55b04a54ed4e3cae3b4f11cbab63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements using Guid(b0a55b04a54ed4e3cae3b4f11cbab63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83dd1d88aae69bee879c545798928c8f') in 0.002638 seconds
+  Import took 0.006326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.511387 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeSwitchStatementP01.cs
+  artifactKey: Guid(ef184e20ea8914d58a35f957512208f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeSwitchStatementP01.cs using Guid(ef184e20ea8914d58a35f957512208f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ec103c8711717cb98c3bc79bf816f9') in 0.014163 seconds
+  Import took 0.020251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008132 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeSwitchStatementP01.cs
+  artifactKey: Guid(ef184e20ea8914d58a35f957512208f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeSwitchStatementP01.cs using Guid(ef184e20ea8914d58a35f957512208f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ec103c8711717cb98c3bc79bf816f9') in 0.009958 seconds
+  Import took 0.013841 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000787 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.477 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1121 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.6 MB.
+System memory in use after: 116.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 3.895516 ms (FindLiveObjects: 0.312018 ms CreateObjectMapping: 0.075666 ms MarkObjects: 3.351706 ms  DeleteObjects: 0.153580 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.353758 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeSwitchStatementP02.cs
+  artifactKey: Guid(ddf31e111198b4cef8d42572451fe477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeSwitchStatementP02.cs using Guid(ddf31e111198b4cef8d42572451fe477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6be0844c24221a82327a99ef0f8aff') in 0.023316 seconds
+  Import took 0.027517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003334 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeSwitchStatementP02.cs
+  artifactKey: Guid(ddf31e111198b4cef8d42572451fe477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeSwitchStatementP02.cs using Guid(ddf31e111198b4cef8d42572451fe477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6be0844c24221a82327a99ef0f8aff') in 0.013443 seconds
+  Import took 0.017158 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000793 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.593 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.8 MB.
+System memory in use after: 116.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 3.987326 ms (FindLiveObjects: 0.316444 ms CreateObjectMapping: 0.073353 ms MarkObjects: 3.484854 ms  DeleteObjects: 0.110200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.588770 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeWeaponSelectProgram.cs
+  artifactKey: Guid(5e54f53dc32914954aa276d2393e0a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeWeaponSelectProgram.cs using Guid(5e54f53dc32914954aa276d2393e0a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d5b092f68431ed5f4d84ef09030402') in 0.015973 seconds
+  Import took 0.039144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023084 seconds.
+  path: Assets/Scripts/Switch Statements/ChallengeWeaponSelectProgram.cs
+  artifactKey: Guid(5e54f53dc32914954aa276d2393e0a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Switch Statements/ChallengeWeaponSelectProgram.cs using Guid(5e54f53dc32914954aa276d2393e0a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7d5b092f68431ed5f4d84ef09030402') in 0.108610 seconds
+  Import took 0.113132 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000818 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.614 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1123 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 117.0 MB.
+System memory in use after: 117.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 3.729510 ms (FindLiveObjects: 0.477412 ms CreateObjectMapping: 0.085222 ms MarkObjects: 3.034229 ms  DeleteObjects: 0.130345 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.218126 seconds.
+  path: Assets/Scenes/IF-Then Statements.unity
+  artifactKey: Guid(9883ace94aebb452da6cfab220203ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/IF-Then Statements.unity using Guid(9883ace94aebb452da6cfab220203ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5047a40777cda14ae7fcb20bdaf64544') in 0.106543 seconds
+  Import took 0.115115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.752642 seconds.
+  path: Assets/Scenes/IF-Then Logic.unity
+  artifactKey: Guid(9883ace94aebb452da6cfab220203ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/IF-Then Logic.unity using Guid(9883ace94aebb452da6cfab220203ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bd6cb94dec77a8a3187750e54efa87') in 0.003845 seconds
+  Import took 0.007665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.315054 seconds.
+  path: Assets/Scenes/Switch Statements.unity
+  artifactKey: Guid(8dced8e9d1c8846ad898e148b120906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Switch Statements.unity using Guid(8dced8e9d1c8846ad898e148b120906e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9002fd66138cbcc800266cfd351372a') in 0.005836 seconds
+  Import took 0.012258 seconds .
+
