@@ -122,3 +122,55 @@ Received Import Request.
 Start importing Assets/Scenes/Variables.unity using Guid(e01fc080881d04e4fbd7ff68ef5f7b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb104ec01e272c177abebcd9384bb943') in 0.003113 seconds
   Import took 0.011980 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 168.082531 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(12a9e98fa7080401680fecec1b495235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(12a9e98fa7080401680fecec1b495235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851a893666700e8b150607e41599702b') in 0.007007 seconds
+  Import took 0.013386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.646382 seconds.
+  path: Assets/Scripts/Variables
+  artifactKey: Guid(35db0e24e9fc54a04b9c985a1d510cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables using Guid(35db0e24e9fc54a04b9c985a1d510cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e9a6df706b1af297dc4887b52bc0ea') in 0.008821 seconds
+  Import took 0.014328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003637 seconds.
+  path: Assets/Scripts/Variables
+  artifactKey: Guid(35db0e24e9fc54a04b9c985a1d510cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables using Guid(35db0e24e9fc54a04b9c985a1d510cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2e9a6df706b1af297dc4887b52bc0ea') in 0.002892 seconds
+  Import took 0.006821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.990118 seconds.
+  path: Assets/Scripts/Variables/TestVariable.cs
+  artifactKey: Guid(584cde46dffe245e4b2f61fd7d58fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Variables/TestVariable.cs using Guid(584cde46dffe245e4b2f61fd7d58fe3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa6e8ea3eb9389c0629356be37b1a6d') in 0.650487 seconds
+  Import took 0.690941 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000973 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.483 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.4 MB.
+System memory in use after: 113.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 4.385881 ms (FindLiveObjects: 0.339980 ms CreateObjectMapping: 0.090055 ms MarkObjects: 3.820660 ms  DeleteObjects: 0.132952 ms)
+
