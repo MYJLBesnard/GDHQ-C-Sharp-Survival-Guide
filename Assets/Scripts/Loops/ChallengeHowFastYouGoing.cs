@@ -27,11 +27,38 @@ public class ChallengeHowFastYouGoing : MonoBehaviour
 
     IEnumerator MaxSpeedReached()
     {
-        while (speed != maxSpeed)
+        while (speed < maxSpeed)
         {
-            speed++;
-            yield return new WaitForSeconds(1.0f);
+            speed += 5;
+            yield return new WaitForSeconds(0.5f);
         }
+        speed = maxSpeed;
+        Debug.Log("You have reached and are being held back at your max speed!");
+
+        // if you wanted to use a DO - WHILE loop
+        //
+        //  do
+        //  {
+        //      speed += 5;
+        //      yield return new WaitForSeconds(0.5f);
+        //
+        //  } while (speed < maxSpeed);
+        //
+
+        // Example of the solution provided by mentor:
+        //
+        //  while (true)
+        //  {
+        //      yield retuen new WaitForSeconds(0.5f);
+        //      speed += 5;
+        //
+        //      if (speed > maxSpeed)
+        //      {
+        //          break;
+        //      }
+        //  }
+        //
+
     }
 
 }
